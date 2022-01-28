@@ -1,0 +1,97 @@
+ManifestFileVersion: 0
+CRC: 2667808785
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: startpanel_prefab
+      Dependencies: {}
+    Info_1:
+      Name: settlementobj_prefab
+      Dependencies: {}
+    Info_2:
+      Name: japancircle_prefab
+      Dependencies: {}
+    Info_3:
+      Name: japansquare_prefab
+      Dependencies: {}
+    Info_4:
+      Name: gamepad_prefab
+      Dependencies: {}
+    Info_5:
+      Name: ps_prefab
+      Dependencies: {}
+    Info_6:
+      Name: bullet_prefab
+      Dependencies: {}
+    Info_7:
+      Name: playerstatepanel_prefab
+      Dependencies:
+        Dependency_0: icon0_png
+    Info_8:
+      Name: promptpanel_prefab
+      Dependencies:
+        Dependency_0: icon1_png
+        Dependency_1: icon0_png
+    Info_9:
+      Name: acg_prefab
+      Dependencies: {}
+    Info_10:
+      Name: enemy_prefab
+      Dependencies: {}
+    Info_11:
+      Name: icon14_png
+      Dependencies: {}
+    Info_12:
+      Name: icon1_png
+      Dependencies: {}
+    Info_13:
+      Name: icon2_png
+      Dependencies: {}
+    Info_14:
+      Name: icon3_png
+      Dependencies: {}
+    Info_15:
+      Name: icon4_png
+      Dependencies: {}
+    Info_16:
+      Name: icon5_png
+      Dependencies: {}
+    Info_17:
+      Name: icon7_png
+      Dependencies: {}
+    Info_18:
+      Name: icon8_png
+      Dependencies: {}
+    Info_19:
+      Name: icon9_png
+      Dependencies: {}
+    Info_20:
+      Name: icon10_png
+      Dependencies: {}
+    Info_21:
+      Name: icon11_png
+      Dependencies: {}
+    Info_22:
+      Name: icon13_png
+      Dependencies: {}
+    Info_23:
+      Name: icon15_png
+      Dependencies: {}
+    Info_24:
+      Name: icon17_png
+      Dependencies: {}
+    Info_25:
+      Name: icon18_png
+      Dependencies: {}
+    Info_26:
+      Name: icon6_png
+      Dependencies: {}
+    Info_27:
+      Name: icon12_png
+      Dependencies: {}
+    Info_28:
+      Name: icon0_png
+      Dependencies: {}
+    Info_29:
+      Name: endpanel_prefab
+      Dependencies: {}

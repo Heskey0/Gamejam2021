@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3198249807
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b96b374dc6132d1c775cf9679d0f4a8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/icon/icon13.png
+Dependencies: []

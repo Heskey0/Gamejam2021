@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 389250939
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b955559507e327aa049da69a67eb4ce6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3319b1d9cd68ba4225636df085ce6f3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ca52083190043c183ca49c86478e701, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/11.ABRes/Bullet.prefab
+Dependencies: []

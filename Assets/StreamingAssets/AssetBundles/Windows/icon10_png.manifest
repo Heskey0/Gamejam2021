@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2634258678
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9cb5a84e97f2a7ad5ade8185f1829361
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/icon/icon10.png
+Dependencies: []

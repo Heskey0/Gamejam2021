@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 1597771620
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bfa062315345f46c6044470ef5552ecb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22ebd10b0462a6476942d1c5852bcc00
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdff9d77e7f500349bf542477e897f89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b50b91a8966856b4db908f73bcff1f21, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/1.Art/UIPrefab/PromptPanel.prefab
+Dependencies:
+- C:/A/Office/Code/Unity/Proj/FGJT_T/FGJT_T/AssetBundles/Windows/icon0_png
+- C:/A/Office/Code/Unity/Proj/FGJT_T/FGJT_T/AssetBundles/Windows/icon1_png

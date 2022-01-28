@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1675320747
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4087d41546925f0ad2f8f1100f02ddee
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5cb6324852dad21f9dc4e6640e50547a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6686475ac6cca1844bdbf94f3d2bc24a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/11.ABRes/GamePad.prefab
+Dependencies: []

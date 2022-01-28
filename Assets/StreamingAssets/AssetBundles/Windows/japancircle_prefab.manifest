@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2129618194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b40ad47d9f582b5f3680919f8194ff7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 004722697f603226bda5df4597c20611
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/11.ABRes/JapanCircle.prefab
+Dependencies: []
